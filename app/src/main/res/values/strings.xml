@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Boa Viagem</string>
+    <string name="usuario">Digite o nome de usuário</string>
+    <string name="senha">Digite sua senha</string>
+    <string name="erro_autenticao">Usuário ou senha inválidos</string>
+
+    <!-- hints -->
+
+    <string name="usuario_hint">Digite seu nome de usuário</string>
+
+
+    <!-- botões -->
+
+    <string name="entrar">Login</string>
+</resources>
